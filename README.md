@@ -21,8 +21,11 @@ A Full-Stack Product Store Application
    cd mern-chakra-product-store
 2. Build the application:
    npm run build
+   
 3.Start the application:
   npm run start
+
+  
 For Development
 Navigate to the project root:
 cd mern-chakra-product-store
