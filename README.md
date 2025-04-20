@@ -14,8 +14,27 @@ A Full-Stack Product Store Application
 - `PORT`: The port for the backend server (e.g., `5000`)
 
 ## 🚀 How to Run
-### Running the Backend
-1. Navigate to the backend folder:
+
+### For Production
+1. Navigate to the project root:
    ```bash
    cd mern-chakra-product-store
+2. Build the application:
+   npm run build
+3.Start the application:
+  npm run start
+For Development
+Navigate to the project root:
+cd mern-chakra-product-store
+
+
+Start the backend in development mode:
 npm run dev
+
+Navigate to the frontend folder:
+cd mern-chakra-product-store/frontend
+
+
+Start the frontend in development mode:
+npm run dev
+
