@@ -1,4 +1,4 @@
-MERN Chakra Product Store
+/*MERN Chakra Product Store*/
 A full-stack product store application built with the MERN stack and styled using Chakra UI v3.x.
 
 🛠️ Tech Stack
